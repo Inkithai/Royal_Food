@@ -1,6 +1,23 @@
-# Royal Food - Food Ordering Application
+# Royal Food 🍔🚀
 
-A full-stack food ordering web application built with **React (Vite)** for the Customer and Admin dashboards, and **Node.js** for the backend API server. The project uses modular architecture for scalability and easy maintenance.
+Excited to share my latest project – **Royal Food**, a MERN stack food delivery platform that brings seamless ordering, secure payments, and real-time food tracking to users! 🚀
+
+## 🔥 Key Features
+
+✅ **User Authentication** (Login/Register with JWT)  
+✅ **Secure Payments** via Stripe 💳  
+✅ **Real-Time Food Tracking** 📍  
+✅ **Admin Panel** (Manage food items, orders, and listings)
+
+## 🔧 Tech Stack
+
+- **Frontend (Customer & Admin):** React.js + Vite
+- **Backend:** Node.js + Express.js
+- **Database:** MongoDB
+- **State Management:** Context API
+- **Authentication:** JWT + Custom Middleware
+- **Payments:** Stripe Integration
+- **API Communication:** HTTP REST APIs
 
 ## Project Structure
 
@@ -10,15 +27,6 @@ royal_food/
 ├── backend/           # Backend API (Node.js)
 └── frontend/          # Customer Frontend (React/Vite)
 ```
-
-## Tech Stack
-
-- **Frontend (Customer & Admin):** React.js + Vite
-- **Backend:** Node.js + Express.js
-- **Database:** MongoDB
-- **State Management:** Context API
-- **Authentication:** Custom Middleware
-- **API Communication:** HTTP REST APIs
 
 ## Architecture Diagram
 
